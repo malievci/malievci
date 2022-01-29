@@ -5,8 +5,7 @@ I have also experience on Android and IOS App development.
 
 - 🌱 I’m currently learning Spring Security.
 
-- 📫 How to reach me 
-You can reach me via malievci@gmail.com
+- 📫 You can reach me via malievci@gmail.com
 
 <!---
 malievci/malievci is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
